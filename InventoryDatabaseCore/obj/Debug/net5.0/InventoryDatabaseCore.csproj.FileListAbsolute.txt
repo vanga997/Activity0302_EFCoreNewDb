@@ -1,0 +1,15 @@
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.csprojAssemblyReference.cache
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.AssemblyInfoInputs.cache
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.AssemblyInfo.cs
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\bin\Debug\net5.0\InventoryDatabaseCore.deps.json
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\bin\Debug\net5.0\InventoryDatabaseCore.runtimeconfig.json
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\bin\Debug\net5.0\InventoryDatabaseCore.runtimeconfig.dev.json
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\bin\Debug\net5.0\InventoryDatabaseCore.dll
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\bin\Debug\net5.0\ref\InventoryDatabaseCore.dll
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\bin\Debug\net5.0\InventoryDatabaseCore.pdb
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.dll
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\ref\InventoryDatabaseCore.dll
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.pdb
+C:\Users\Даша\Source\Repos\Activity0302_EFCoreNewDb\InventoryDatabaseCore\obj\Debug\net5.0\InventoryDatabaseCore.genruntimeconfig.cache

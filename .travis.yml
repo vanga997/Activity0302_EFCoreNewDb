@@ -1,0 +1,10 @@
+language: csharp
+solution: ./Activity0302_EFCoreNewDb.sln 
+dist: bionic
+mono: none
+dotnet: 5.0
+install: 
+    - dotnet restore ./Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
+script:
+    - dotnet build ./Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
+    - dotnet run ./Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
